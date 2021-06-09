@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gamesense-coder
 - 👀 I’m interested in c++
 - 🌱 I’m currently learning c,asm,c++
-- sitz in benz roll an auf 
 
 <!---
 gamesense-coder/gamesense-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
